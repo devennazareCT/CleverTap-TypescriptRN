@@ -29,5 +29,11 @@ tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
 
 ``` npx react-native run-android ```
 
+**Clevertap SDK**
 
+![image](https://user-images.githubusercontent.com/100521132/170477237-dee9deff-4689-4ccc-aff6-dfe019f6f242.png)
+
+
+
+![image](https://user-images.githubusercontent.com/100521132/170476980-795cd088-2bbb-4182-b1cb-1e157bbf9ac7.png)
 
