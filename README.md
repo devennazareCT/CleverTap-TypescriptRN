@@ -25,7 +25,8 @@ tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
 ```
 
 
-**Step 5** :- Start the server using vscode and open the android project from android studio
+**Step 5** :- Start the server using vscode and open the android project from android studio 
+
 ``` npx react-native run-android ```
 
 
