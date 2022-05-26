@@ -1,4 +1,4 @@
-**#Clevertap SDK with React Native TypeScript**
+#  Clevertap SDK with React Native TypeScript
 
 **Step 1** :- Install typescript
 
